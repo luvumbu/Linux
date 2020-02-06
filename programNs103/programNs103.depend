@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1580979229 source:c:\users\masterdeng\documents\linux\programns103\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function/exercice1.h"
+	"function/pageweb.h"
+	"model/model1.h"
+
+1580909726 c:\users\masterdeng\documents\linux\programns103\function\exercice1.h
+
+1580906293 c:\users\masterdeng\documents\linux\programns103\function\exercice2.h
+
+1580906301 c:\users\masterdeng\documents\linux\programns103\function\exercice3.h
+
+1580906313 c:\users\masterdeng\documents\linux\programns103\function\exercice4.h
+
+1580907625 c:\users\masterdeng\documents\linux\programns103\model\model1.h
+
+1580906616 c:\users\masterdeng\documents\linux\programns103\model\model2.h
+
+1580906622 c:\users\masterdeng\documents\linux\programns103\model\model3.h
+
+1580906631 c:\users\masterdeng\documents\linux\programns103\model\model4.h
+
+1580973325 c:\users\masterdeng\documents\linux\programns103\function\pageweb.h
+
